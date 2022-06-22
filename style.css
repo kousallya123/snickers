@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    overflow-x:hidden;
 }
 .first{
     background-color:#410C00;;
